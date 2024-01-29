@@ -1,0 +1,14 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+.light-theme{
+  --bg-clr:#f85a40;
+}
+.dark-theme{
+  --bg-black:#4d4f53;
+  --txt-clr: #f85a40;
+  background-color: #4d4f53;
+  --bg-gray: #6d6e70;
+}
+
+.bg-clr{
+  background-color: var(--bg-clr);
+}

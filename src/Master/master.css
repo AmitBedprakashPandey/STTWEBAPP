@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #52565e;
+  --white: #fff;
+  --silver: #f3f4f7;
+  --yellow: #ffc845;
+  --blue: #037ef3;
+  --red: #f85a40;
+  --green: #00c16e;
+  --gray: #caccd1;
+  --trans-silver: #caccd17e;
+}
+
+body {
+  background-color: var(--white);
+}
+
+/* main-box */
+.css-13cymwt-control {
+  border: 1px solid #52565e !important;
+  border-radius: 10px !important;
+  width: 100% !important;
+  height: 46px;
+  -webkit-border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+  -ms-border-radius: 10px !important;
+  -o-border-radius: 10px !important;
+}
+
+.css-t3ipsp-control {
+  box-shadow: none !important;
+  border-radius: 10px !important;
+  border: 1px solid;
+  height: 46px;
+}
+
+.css-1fdsijx-ValueContainer {
+  border-radius: 10px !important;
+  width: 100%;
+  height: 46px !important;
+  transition: 0.5s;
+  color: black;
+  font-size: 11pt;
+
+}
